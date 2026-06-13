@@ -85,12 +85,12 @@
 </a>
 
 <a href="S2.jpg">
-  <img src="S2.png"
+  <img src="S2.jpg"
        style="width:320px;height:500px;object-fit:cover;">
 </a>
 
 <a href="S3.jpg">
-  <img src="S3.jpg"
+  <img src="S3.png"
        style="width:320px;height:500px;object-fit:cover;">
 </a>
 
