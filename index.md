@@ -75,6 +75,8 @@
        style="width:320px;height:500px;object-fit:cover;">
 </a>
 
+### Signal Structure institute
+
 </div>
 
 <div style="display:flex; gap:20px;">
@@ -96,23 +98,25 @@
 
 </div>
 
+### Logo
+
 </div>
 
 <div style="display:flex; gap:20px;">
 
 <a href="L1.jpg">
   <img src="L1.jpg"
-       style="width:320px;height:500px;object-fit:cover;">
+       style="width:320px;height:320px;object-fit:cover;">
 </a>
 
 <a href="L2.jpg">
   <img src="L2.jpg"
-       style="width:320px;height:500px;object-fit:cover;">
+       style="width:320px;height:320px;object-fit:cover;">
 </a>
 
 <a href="L3.jpg">
   <img src="L3.jpg"
-       style="width:320px;height:500px;object-fit:cover;">
+       style="width:320px;height:320px;object-fit:cover;">
 </a>
 
 </div>
