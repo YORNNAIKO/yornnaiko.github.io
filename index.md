@@ -56,4 +56,24 @@
 - Исследовательский институт «Structure signal institute»;
 - Промышленная компания «Форматум».
 
+## Список работ не попадающих по NDA (соглашение о неразглашении):
+  
+<div style="display:flex; gap:20px;">
+
+<a href="D2.png">
+  <img src="D2.png"
+       style="width:300px;height:700px;object-fit:cover;">
+</a>
+
+<a href="D3.jpg">
+  <img src="D3.jpg"
+       style="width:300px;height:700px;object-fit:cover;">
+</a>
+
+<a href="D4.jpg">
+  <img src="D4.jpg"
+       style="width:300px;height:700px;object-fit:cover;">
+</a>
+
+</div>
 
