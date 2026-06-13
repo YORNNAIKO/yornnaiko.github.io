@@ -3,19 +3,24 @@
 
 ## Некоторые работы
 
-<p>
-  <a href="example1.jpg">
-    <img src="example1.jpg" width="250">
-  </a>
+<div style="display:flex; gap:20px;">
 
-  <a href="example2.jpg">
-    <img src="example2.jpg" width="250">
-  </a>
+<a href="example1.jpg">
+  <img src="example1.jpg"
+       style="width:300px;height:200px;object-fit:cover;">
+</a>
 
-  <a href="example3.jpg">
-    <img src="example3.jpg" width="250">
-  </a>
-</p>
+<a href="example2.jpg">
+  <img src="example2.jpg"
+       style="width:300px;height:200px;object-fit:cover;">
+</a>
+
+<a href="example3.jpg">
+  <img src="example3.jpg"
+       style="width:300px;height:200px;object-fit:cover;">
+</a>
+
+</div>
 
 ### Обо мне
 
