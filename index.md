@@ -3,11 +3,19 @@
 
 ## Некоторые работы
 
-[![Работа 1](example1.jpg)](example1.jpg)
+<p>
+  <a href="example1.jpg">
+    <img src="example1.jpg" width="250">
+  </a>
 
-[![Работа 2](example2.jpg)](example2.jpg)
+  <a href="example2.jpg">
+    <img src="example2.jpg" width="250">
+  </a>
 
-[![Работа 3](example3.jpg)](example3.jpg)
+  <a href="example3.jpg">
+    <img src="example3.jpg" width="250">
+  </a>
+</p>
 
 ### Обо мне
 
