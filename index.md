@@ -77,9 +77,9 @@
        style="width:320px;height:500px;object-fit:cover;">
 </a>
 
-### Signal Structure institute
-
 </div>
+
+### Signal Structure institute
 
 <div style="display:flex; gap:20px;">
 
@@ -101,8 +101,6 @@
 </div>
 
 ### Logo
-
-</div>
 
 <div style="display:flex; gap:20px;">
 
