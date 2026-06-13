@@ -5,8 +5,8 @@
 
 <div style="display:flex; gap:20px;">
 
-<a href="example1.jpg">
-  <img src="example1.jpg"
+<a href="example1.png">
+  <img src="example1.png"
        style="width:300px;height:200px;object-fit:cover;">
 </a>
 
