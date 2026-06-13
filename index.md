@@ -62,17 +62,17 @@
 
 <a href="D2.png">
   <img src="D2.png"
-       style="width:300px;height:700px;object-fit:cover;">
+       style="width:300px;height:500px;object-fit:cover;">
 </a>
 
 <a href="D3.jpg">
   <img src="D3.jpg"
-       style="width:300px;height:700px;object-fit:cover;">
+       style="width:300px;height:500px;object-fit:cover;">
 </a>
 
 <a href="D4.jpg">
   <img src="D4.jpg"
-       style="width:300px;height:700px;object-fit:cover;">
+       style="width:300px;height:500px;object-fit:cover;">
 </a>
 
 </div>
