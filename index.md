@@ -96,3 +96,24 @@
 
 </div>
 
+</div>
+
+<div style="display:flex; gap:20px;">
+
+<a href="L1.jpg">
+  <img src="L1.jpg"
+       style="width:320px;height:500px;object-fit:cover;">
+</a>
+
+<a href="L2.jpg">
+  <img src="L2.jpg"
+       style="width:320px;height:500px;object-fit:cover;">
+</a>
+
+<a href="L3.jpg">
+  <img src="L3.jpg"
+       style="width:320px;height:500px;object-fit:cover;">
+</a>
+
+</div>
+
