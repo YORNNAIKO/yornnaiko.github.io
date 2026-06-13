@@ -3,16 +3,16 @@
 
 <h2>Некоторые работы</h2>
 
-<a href="images/example1.jpg">
-  <img src="images/example1.jpg" width="250">
+<a href="example1.jpg">
+  <img src="example1.jpg" width="250">
 </a>
 
-<a href="images/example2.jpg">
-  <img src="images/example2.jpg" width="250">
+<a href="example2.jpg">
+  <img src="example2.jpg" width="250">
 </a>
 
-<a href="images/example3.jpg">
-  <img src="images/example3.jpg" width="250">
+<a href="example3.jpg">
+  <img src="example3.jpg" width="250">
 </a>
 
 ### Обо мне
