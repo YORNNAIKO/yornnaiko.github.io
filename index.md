@@ -77,3 +77,22 @@
 
 </div>
 
+<div style="display:flex; gap:20px;">
+
+<a href="S1.png">
+  <img src="D2.png"
+       style="width:320px;height:500px;object-fit:cover;">
+</a>
+
+<a href="S2.jpg">
+  <img src="D3.png"
+       style="width:320px;height:500px;object-fit:cover;">
+</a>
+
+<a href="S3.jpg">
+  <img src="D4.jpg"
+       style="width:320px;height:500px;object-fit:cover;">
+</a>
+
+</div>
+
