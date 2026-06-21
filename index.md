@@ -3,19 +3,8 @@ layout: default
 ---
 
 <style>
-.main-content {
+.container-lg {
     max-width: none !important;
-    width: 95vw !important;
-}
-
-.wrapper {
-    max-width: none !important;
-    width: 95vw !important;
-}
-
-.page-content {
-    max-width: none !important;
-    width: 95vw !important;
 }
 </style>
 
@@ -57,8 +46,6 @@ layout: default
 - Промышленная компания «Форматум».
 
 ##### Список работ не подпадающих под NDA (соглашение о неразглашении):
-
-#### LOGOFOLIO VOL.1
 
 <div class="portfolio-gallery">
 
