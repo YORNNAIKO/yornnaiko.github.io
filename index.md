@@ -4,11 +4,13 @@ layout: default
 
 <style>
 .container-lg {
-    max-width: none !important;
+    max-width: 1800px !important;
 }
 </style>
 
-# Георгий Корытин
+# ЙОРН НАЙКО
+Aka Георгий Корытин
+
 Графический художник, дизайнер.
 
 ### Обо мне
