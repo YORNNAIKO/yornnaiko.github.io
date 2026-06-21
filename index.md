@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Георгий Корытин
+# Георгий Корытин
 Графический художник, дизайнер.
 
 ### Обо мне
@@ -39,33 +39,11 @@ layout: default
 - Исследовательский институт «Structure signal institute»;
 - Промышленная компания «Форматум».
 
-## Список работ не подпадающих под NDA (соглашение о неразглашении):
+##### Список работ не подпадающих под NDA (соглашение о неразглашении):
 
-### LOGOFOLIO VOL.1
+#### LOGOFOLIO VOL.1
 
-<style>
-.logofolio {
-    width: 100%;
-    margin: 0;
-    padding: 0;
-}
-
-.logofolio img {
-    width: 100%;
-    height: auto;
-    display: block;
-}
-
-/* Увеличение только на больших экранах */
-@media (min-width: 900px) {
-    .logofolio {
-        width: 140%;
-        margin-left: -20%;
-    }
-}
-</style>
-
-<div class="logofolio">
+<div class="portfolio-gallery">
 
 <a href="111.jpg">
     <img src="111.jpg" alt="111">
