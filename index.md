@@ -43,38 +43,60 @@ layout: default
 
 ### LOGOFOLIO VOL.1
 
-<div style="width:140%;margin-left:-20%;">
+<style>
+.logofolio {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+.logofolio img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Увеличение только на больших экранах */
+@media (min-width: 900px) {
+    .logofolio {
+        width: 140%;
+        margin-left: -20%;
+    }
+}
+</style>
+
+<div class="logofolio">
 
 <a href="111.jpg">
-  <img src="111.jpg" style="width:100%;display:block;">
+    <img src="111.jpg" alt="111">
 </a>
 
 <a href="222.jpg">
-  <img src="222.jpg" style="width:100%;display:block;">
+    <img src="222.jpg" alt="222">
 </a>
 
 <a href="333.jpg">
-  <img src="333.jpg" style="width:100%;display:block;">
+    <img src="333.jpg" alt="333">
 </a>
 
 <a href="444.jpg">
-  <img src="444.jpg" style="width:100%;display:block;">
+    <img src="444.jpg" alt="444">
 </a>
 
 <a href="555.jpg">
-  <img src="555.jpg" style="width:100%;display:block;">
+    <img src="555.jpg" alt="555">
 </a>
 
 <a href="666.jpg">
-  <img src="666.jpg" style="width:100%;display:block;">
+    <img src="666.jpg" alt="666">
 </a>
 
 <a href="777.jpg">
-  <img src="777.jpg" style="width:100%;display:block;">
+    <img src="777.jpg" alt="777">
 </a>
 
 <a href="888.jpg">
-  <img src="888.jpg" style="width:100%;display:block;">
+    <img src="888.jpg" alt="888">
 </a>
 
 </div>
