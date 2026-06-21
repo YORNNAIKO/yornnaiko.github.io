@@ -39,7 +39,7 @@
 
 ### LOGOFOLIO VOL.1
 
-<div style="max-width:1200px;margin:auto;">
+<div style="width:140%;margin-left:-20%;">
 
 <a href="111.jpg">
   <img src="111.jpg" style="width:100%;display:block;">
@@ -74,4 +74,3 @@
 </a>
 
 </div>
-
