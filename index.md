@@ -37,7 +37,7 @@
 
 ## Список работ не попадающих по NDA (соглашение о неразглашении):
 
-### Project Name
+### LOGOFOLIO VOL.1
 
 <div style="max-width:1200px;margin:auto;">
 
