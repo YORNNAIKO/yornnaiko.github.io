@@ -2,6 +2,23 @@
 layout: default
 ---
 
+<style>
+.main-content {
+    max-width: none !important;
+    width: 95vw !important;
+}
+
+.wrapper {
+    max-width: none !important;
+    width: 95vw !important;
+}
+
+.page-content {
+    max-width: none !important;
+    width: 95vw !important;
+}
+</style>
+
 # Георгий Корытин
 Графический художник, дизайнер.
 
