@@ -1,27 +1,6 @@
 ## Георгий Корытин
 Графический художник, дизайнер.
 
-## Некоторые работы
-
-<div style="display:flex; gap:20px;">
-
-<a href="example1.png">
-  <img src="example1.png"
-       style="width:300px;height:200px;object-fit:cover;">
-</a>
-
-<a href="example2.jpg">
-  <img src="example2.jpg"
-       style="width:300px;height:200px;object-fit:cover;">
-</a>
-
-<a href="example3.jpg">
-  <img src="example3.jpg"
-       style="width:300px;height:200px;object-fit:cover;">
-</a>
-
-</div>
-
 ### Обо мне
 
 Мой основной фокус это визуальный дизайн, айдентика, UI/UX (делал лого, типографику, вёрстку, раскадровки, плакаты, разработку концептов и подобное).
@@ -58,65 +37,40 @@
 
 ## Список работ не попадающих по NDA (соглашение о неразглашении):
 
-### DARABAD MUSEUM
+### Project Name
 
-<div style="display:flex; gap:20px;">
+<div style="max-width:1200px;margin:auto;">
 
-<a href="D2.png">
-  <img src="D2.png"
-       style="width:320px;height:500px;object-fit:cover;">
+<a href="111.jpg">
+  <img src="111.jpg" style="width:100%;display:block;">
 </a>
 
-<a href="D3.jpg">
-  <img src="D3.png"
-       style="width:320px;height:500px;object-fit:cover;">
+<a href="222.jpg">
+  <img src="222.jpg" style="width:100%;display:block;">
 </a>
 
-<a href="D4.jpg">
-  <img src="D4.jpg"
-       style="width:320px;height:500px;object-fit:cover;">
+<a href="333.jpg">
+  <img src="333.jpg" style="width:100%;display:block;">
 </a>
 
-</div>
-
-### Signal Structure institute
-
-<div style="display:flex; gap:20px;">
-
-<a href="S1.png">
-  <img src="S1.png"
-       style="width:320px;height:500px;object-fit:cover;">
+<a href="444.jpg">
+  <img src="444.jpg" style="width:100%;display:block;">
 </a>
 
-<a href="S2.jpg">
-  <img src="S2.jpg"
-       style="width:320px;height:500px;object-fit:cover;">
+<a href="555.jpg">
+  <img src="555.jpg" style="width:100%;display:block;">
 </a>
 
-<a href="S3.jpg">
-  <img src="S3.png"
-       style="width:320px;height:500px;object-fit:cover;">
+<a href="666.jpg">
+  <img src="666.jpg" style="width:100%;display:block;">
 </a>
 
-</div>
-
-### Logo
-
-<div style="display:flex; gap:20px;">
-
-<a href="L1.jpg">
-  <img src="L1.jpg"
-       style="width:320px;height:320px;object-fit:cover;">
+<a href="777.jpg">
+  <img src="777.jpg" style="width:100%;display:block;">
 </a>
 
-<a href="L2.jpg">
-  <img src="L2.jpg"
-       style="width:320px;height:320px;object-fit:cover;">
-</a>
-
-<a href="L3.jpg">
-  <img src="L3.jpg"
-       style="width:320px;height:320px;object-fit:cover;">
+<a href="888.jpg">
+  <img src="888.jpg" style="width:100%;display:block;">
 </a>
 
 </div>
